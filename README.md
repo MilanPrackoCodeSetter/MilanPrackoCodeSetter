@@ -2,7 +2,7 @@
 - 👀 I’m interested in strong type language C#, TypeScript. I like the syntactic, architectural, programming side of code.
 - 🌱 I’m currently learning more about asynchronous and parallel strategies in the code.
 - 💞️ I’m looking to collaborate on a project which is able to change the future.
-- 📫 How to reach me, send me an email at milanpracko@gmail.com
+- 📫 How to reach me, send me a message at https://www.linkedin.com/in/milanpracko
 
 <!---
 MilanPrackoCodeSetter/MilanPrackoCodeSetter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
